@@ -1,6 +1,6 @@
 # sails-issue-req-param-length
 
-a [Sails](http://sailsjs.org) application
+a [Sails](http://sailsjs.org) application to demonstrate [sails issue #3738](https://github.com/balderdashy/sails/issues/3738)
 
 ## To reproduce:
 
